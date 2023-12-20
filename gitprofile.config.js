@@ -21,7 +21,7 @@ const config = {
     behance: '',
     medium: '',
     dev: 'djacidfx',
-    stackoverflow: '/2005305/david-b', // example: '1/jeff-atwood'
+    stackoverflow: '2005305/david-b', // example: '1/jeff-atwood'
     skype: '',
     telegram: '',
     website: 'https://mywild.work/',
