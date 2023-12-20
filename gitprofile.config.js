@@ -14,14 +14,14 @@ const config = {
     linkedin: '',
     twitter: 'WildCatStudio18',
     mastodon: '',
-    facebook: '',
+    facebook: 'TheRockinRev',
     instagram: '',
     youtube: '', // example: 'pewdiepie'
     dribbble: '',
     behance: '',
     medium: '',
-    dev: '',
-    stackoverflow: '', // example: '1/jeff-atwood'
+    dev: 'djacidfx',
+    stackoverflow: '/2005305/david-b', // example: '1/jeff-atwood'
     skype: '',
     telegram: '',
     website: 'https://mywild.work/',
@@ -101,7 +101,7 @@ const config = {
       description:
         'Portfolio Website',
       imageUrl: 'https://mywild.work/uploads/images/202311/image_650x433_65539c08b735d.jpg',
-      link: 'https://mywild.work/',
+      link: 'https://wildcatproductions.biz/',
     },
   ],
   // Display blog posts from your medium or dev account. (Optional)
