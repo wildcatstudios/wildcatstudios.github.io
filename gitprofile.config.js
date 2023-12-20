@@ -50,11 +50,11 @@ const config = {
   ],
   experiences: [
     {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'September 2021',
+      company: 'WildCat Studio',
+      position: 'Owner',
+      from: 'September 2011',
       to: 'Present',
-      companyLink: 'https://example.com',
+      companyLink: 'https://mywild.work/',
     },
     {
       company: 'Company Name',
@@ -90,24 +90,24 @@ const config = {
   // To hide the `My Projects` section, keep it empty.
   externalProjects: [
     {
-      title: 'Project Name',
+      title: 'WIldCat Studio',
       description:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
-      imageUrl: 'https://via.placeholder.com/250x250',
-      link: 'https://example.com',
+        'Our Current website',
+      imageUrl: 'https://mywild.work/uploads/images/202311/image_650x433_65539c08b735d.jpg',
+      link: 'https://mywild.work/',
     },
     {
-      title: 'Project Name',
+      title: 'WildCat Portfolio',
       description:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
-      imageUrl: 'https://via.placeholder.com/250x250',
-      link: 'https://example.com',
+        'Portfolio Website',
+      imageUrl: 'https://mywild.work/uploads/images/202311/image_650x433_65539c08b735d.jpg',
+      link: 'https://mywild.work/',
     },
   ],
   // Display blog posts from your medium or dev account. (Optional)
   blog: {
     source: 'dev', // medium | dev
-    username: 'arifszn', // to hide blog section, keep it empty
+    username: 'djacidfx', // to hide blog section, keep it empty
     limit: 2, // How many posts to display. Max is 10.
   },
   googleAnalytics: {
@@ -119,11 +119,11 @@ const config = {
     snippetVersion: 6,
   },
   themeConfig: {
-    defaultTheme: 'wireframe',
+    defaultTheme: 'corporate',
 
     // Hides the switch in the navbar
     // Useful if you want to support a single color mode
-    disableSwitch: false,
+    disableSwitch: true,
 
     // Should use the prefers-color-scheme media-query,
     // using user system preferences, instead of the hardcoded defaultTheme
