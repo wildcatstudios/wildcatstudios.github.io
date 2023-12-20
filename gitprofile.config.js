@@ -16,7 +16,7 @@ const config = {
     mastodon: '',
     facebook: 'TheRockinRev',
     instagram: '',
-    youtube: '', // example: 'pewdiepie'
+    youtube: 'WildCatsStudio', // example: 'pewdiepie'
     dribbble: '',
     behance: '',
     medium: '',
