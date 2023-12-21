@@ -26,19 +26,19 @@ const config = {
     telegram: '',
     website: 'https://mywild.work/',
     phone: '',
-    email: 'djacidburn1877@gmail.com',
+    email: '',
   },
   resume: {
     fileUrl:
-      '', // Empty fileUrl will hide the `Download Resume` button.
+      'https://drive.google.com/drive/folders/19doaWS3m-Mz-jsNkP3Mm6m4b7A15vARG?usp=sharing', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
     'PHP',
     'Laravel',
     'JavaScript',
-    'React.js',
-    'Node.js',
-    'Nest.js',
+    'Screen Printing',
+    'Sublimation Printing',
+    'Problem Solving',
     'MySQL',
     'PostgreSQL',
     'Git',
