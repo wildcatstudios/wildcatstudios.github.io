@@ -52,7 +52,7 @@ const config = {
     {
       company: 'WildCat Studio',
       position: 'Owner',
-      from: 'September 2011',
+      from: 'September 2010',
       to: 'Present',
       companyLink: 'https://mywild.work/',
     },
@@ -93,14 +93,14 @@ const config = {
       title: 'WIldCat Studio',
       description:
         'Our Current website',
-      imageUrl: 'https://mywild.work/uploads/images/202311/image_650x433_65539c08b735d.jpg',
+      imageUrl: 'https://mywild.work/uploads/logo/logo_653c68cab0d358-61255006-65881771.png',
       link: 'https://mywild.work/',
     },
     {
       title: 'WildCat Portfolio',
       description:
         'Portfolio Website',
-      imageUrl: 'https://mywild.work/uploads/images/202311/image_650x433_65539c08b735d.jpg',
+      imageUrl: 'https://mywild.work/uploads/logo/logo_653c68cab0d358-61255006-65881771.png',
       link: 'https://wildcatproductions.biz/',
     },
   ],
@@ -179,7 +179,7 @@ const config = {
   },
 
   // Optional Footer. Supports plain text or HTML.
-  footer: `Made with <a 
+  footer: `Welcome to <a 
       class="text-primary" href="https://mywild.work/"
       target="_blank"
       rel="noreferrer"
