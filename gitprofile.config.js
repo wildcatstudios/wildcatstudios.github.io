@@ -74,10 +74,10 @@ const config = {
   ], */
   education: [
     {
-      institution: '',
-      degree: '',
-      from: '',
-      to: '',
+      institution: 'MIT',
+      degree: 'Bachelor Degree - Computer Engineering',
+      from: '2012',
+      to: '2016',
     },
     {
       institution: '',
