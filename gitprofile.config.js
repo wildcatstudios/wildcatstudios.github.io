@@ -93,14 +93,14 @@ const config = {
       title: 'WildCat Studio',
       description:
         'Our Current website',
-      imageUrl: 'https://mywild.work/uploads/logo/logo_653c68cab0d358-61255006-65881771.png',
+      imageUrl: 'https://avatars.githubusercontent.com/u/19895356?v=4',
       link: 'https://mywild.work/',
     },
     {
       title: 'WildCat Portfolio',
       description:
         'Portfolio Website',
-      imageUrl: 'https://mywild.work/uploads/logo/logo_653c68cab0d358-61255006-65881771.png',
+      imageUrl: 'https://avatars.githubusercontent.com/u/19895356?v=4',
       link: 'https://wildcatproductions.biz/',
     },
   ],
