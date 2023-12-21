@@ -92,12 +92,12 @@ const config = {
     {
       title: 'WildCat Studio',
       description:
-        'Our Current website',
+        'Current website',
       imageUrl: 'https://avatars.githubusercontent.com/u/19895356?v=4',
       link: 'https://mywild.work/',
     },
     {
-      title: 'WildCat Portfolio',
+      title: 'Our Portfolio Website',
       description:
         'Portfolio Website',
       imageUrl: 'https://avatars.githubusercontent.com/u/19895356?v=4',
