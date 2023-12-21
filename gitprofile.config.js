@@ -90,7 +90,7 @@ const config = {
   // To hide the `My Projects` section, keep it empty.
   externalProjects: [
     {
-      title: 'WIldCat Studio',
+      title: 'WildCat Studio',
       description:
         'Our Current website',
       imageUrl: 'https://mywild.work/uploads/logo/logo_653c68cab0d358-61255006-65881771.png',
@@ -115,7 +115,7 @@ const config = {
   },
   // Track visitor interaction and behavior. https://www.hotjar.com
   hotjar: {
-    id: '',
+    id: '3802380',
     snippetVersion: 6,
   },
   themeConfig: {
