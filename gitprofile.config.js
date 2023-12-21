@@ -183,7 +183,7 @@ const config = {
       class="text-primary" href="https://mywild.work/"
       target="_blank"
       rel="noreferrer"
-    >WildCat Studio</a> and ❤️ <br><iframe src="https://github.com/sponsors/djacidfx/card" title="Sponsor djacidfx" height="225" width="600" style="border: 0;"></iframe>`,
+    >WildCat Studio</a><br><iframe src="https://github.com/sponsors/djacidfx/card" title="Sponsor djacidfx" height="225" width="600" style="border: 0;"></iframe>`,
 };
 
 export default config;
